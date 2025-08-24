@@ -49,7 +49,7 @@ The model considers 24 carefully selected features including:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/sreekarun/AttritionPredictor.git
+   git clone https://github.com/trishaamandal/AttritionPredictor
    cd AttritionPredictor
    ```
 
@@ -60,6 +60,7 @@ The model considers 24 carefully selected features including:
    ```
 
 3. **Run the application**
+
    ```bash
    streamlit run app.py
 
