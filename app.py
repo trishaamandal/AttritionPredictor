@@ -12,7 +12,7 @@ selected_features = joblib.load(
 
 # Streamlit app setup
 st.set_page_config(page_title="Attrition Predictor", layout="centered")
-
+st.title("👩 Employee Attrition Predictor")
 st.markdown(
     """
 Estimate the likelihood of an employee leaving the company using key features.  
